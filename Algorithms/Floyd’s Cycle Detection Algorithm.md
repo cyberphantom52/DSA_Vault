@@ -2,7 +2,7 @@
 tag: algorithm
 aliases: Hare and Tortoise Algorithm, Fast and Slow Pointer Algorithm
 ---
-Floyd’s Cycle detection algorithm or Hair Tortoise algorithm is used to detect if there is a cycle in a [[linked list]] and what is the starting point.
+Floyd’s Cycle detection algorithm or Hair Tortoise algorithm is used to detect if there is a cycle in a [[Linked List]] and what is the starting point.
 
 ## Code Example
 ```cpp
@@ -32,7 +32,7 @@ bool hasCycle(ListNode *head)
     return true;
 }
 ```
-The above code only detects *if* there is a cycle in the [[linked list]], it does not tell us anything about the where the cycle starts. In order to find the start of the cycle we make the following modification to the code
+The above code only detects *if* there is a cycle in the [[Linked List]], it does not tell us anything about the where the cycle starts. In order to find the start of the cycle we make the following modification to the code
 ```cpp
 ListNode* detectCycle(ListNode* head)
 {
@@ -95,4 +95,4 @@ x + y = (f - 2s)*l
 $$
 Let $f-2s = k$. Where $k$ is some integer. So
 $$x - k*l - y$$
-Now, if we move **slow** to the start of [[linked list]], it will have to cover distance $x$ to meet **fast**, which needs to cover a distance $kl-y = x$. Since both **fast** and **slow** will cover $x$, they'll both meet again at the start of the cycle.
+Now, if we move **slow** to the start of [[Linked List]], it will have to cover distance $x$ to meet **fast**, which needs to cover a distance $kl-y = x$. Since both **fast** and **slow** will cover $x$, they'll both meet again at the start of the cycle.
