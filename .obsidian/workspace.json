@@ -11,12 +11,8 @@
             "id": "250ef2d15de43a3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms/Misra–Gries heavy hitters Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Misra–Gries heavy hitters Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Misra–Gries heavy hitters Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algorithms/Misra–Gries heavy hitters Algorithm.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,27 +141,27 @@
   },
   "active": "250ef2d15de43a3f",
   "lastOpenFiles": [
-    "Algorithms/Misra–Gries heavy hitters Algorithm.md",
+    "Algorithms/Algorithm.md",
+    "Algorithms/Sorting/Sorting.md",
+    "Algorithmic Complexity and Big O Notation.md",
+    "Data Structures/Data Structures.md",
+    "Data Structures/Array.md",
     "Algorithms/Boyer-Moore Majority Voting Algorithm.md",
     "Algorithms/Floyd’s Cycle Detection Algorithm.md",
-    "Algorithmic Complexity and Big O Notation.md",
-    "Algorithms/Algorithm.md",
+    "Algorithms/floydsll.svg",
+    "Dynamic Programming.md",
+    "Algorithms/Misra–Gries heavy hitters Algorithm.md",
     "Algorithms/Sorting/Merge Sort.md",
-    "Data Structures/Array.md",
-    "Data Structures/Data Structures.md",
     "Algorithms/Searching/Binary Search.md",
-    "Algorithms/Sorting/Sorting.md",
     "Algorithms/Sorting/Dutch National Flag Algorithm.md",
     "Algorithms/Kadane's Algorithm.md",
     "Searching.md",
-    "Dynamic Programming.md",
     "Algorithms/Searching",
     "Algorithms/Sorting/merge_sort_diagram.png",
     "linked list.md",
     "Data Structures/Linked List.md",
     "Data Structures",
     "Algorithms/Sorting",
-    "Algorithms/floydsll.svg",
     "Excalidraw/Drawing 2023-07-23 17.58.56.excalidraw.md",
     "Excalidraw/Drawing 2023-07-23 17.58.29.excalidraw.md",
     "Excalidraw/Drawing 2023-07-23 17.58.17.excalidraw.md",

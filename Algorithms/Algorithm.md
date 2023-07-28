@@ -10,10 +10,10 @@ All data structures are meant to hold information. Some structures need specials
 
 There is a ton of research in this field, but for the purposes of a tech interview, the most advanced searching algorithms you’ll likely come across in order of frequency are:
 
--   Quick Select
--   [[Dijkstra]]
--   Bellman-Ford
--   A-star
+-   [[Quickselect Algorithm]]
+-   [[Dijkstra's Algorithm]]
+-   [[Bellman-Ford Algorithm]]
+-   [[A-*|A-star]]
 
 ## [[Sorting]] Algorithms
 
@@ -26,3 +26,4 @@ There is a ton of research in this field, but for the purposes of a tech intervi
 #### Other interesting Stuff
 * [[Boyer-Moore Majority Voting Algorithm]]
 * [[Misra–Gries heavy hitters Algorithm]]
+- [[Floyd’s Cycle Detection Algorithm]]

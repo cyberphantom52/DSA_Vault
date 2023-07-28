@@ -1,5 +1,9 @@
 # Big O Notation
 
+# Big-$\theta$ Notation
+
+# Big-$\ohm$ Notation
+
 # Time Complexity
 
 | Data Structure | Access | Search | Insertion | Deletion | 
@@ -9,7 +13,7 @@
 | [[Queue]] | $O(n)$ | $O(n)$ | $O(1)$ | $O(1)$ |
 | [[Linked List]] | $O(n)$ | $O(n)$ | $O(1)$ | $O(1)$ |
 | [[Doubly-Linked List]] | $O(n)$ | $O(n)$ | $O(1)$ | $O(1)$ |
-| [[Hash Table]] | N/A | $O(1)$ | Best: $O(1)$ <br> Worst: $O(n)$ | Best: $O(1)$ <br> Worst: $O(n)$ |
+| [[Hash Map\|Hash Table]] | N/A | $O(1)$ | Best: $O(1)$ <br> Worst: $O(n)$ | Best: $O(1)$ <br> Worst: $O(n)$ |
 | [[Binary Search Tree]] | Best: $O(log \cdot n)$ <br> Worst: $O(n)$ | Best: $O(log \cdot n)$ <br> Worst: $O(n)$ | Best: $O(log \cdot n)$ <br> Worst: $O(n)$ |  Best: $O(log \cdot n)$ <br> Worst: $O(n)$ |
 
 | Algorithm | Best | Average | Worst | Space | 
