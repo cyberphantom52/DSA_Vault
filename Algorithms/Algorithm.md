@@ -24,6 +24,6 @@ There is a ton of research in this field, but for the purposes of a tech intervi
 - [[Range-Sum Query]]
 
 #### Other interesting Stuff
-* [[Boyer-Moore Majority Voting Algorithm]]
-* [[Misra–Gries heavy hitters Algorithm]]
+- [[Boyer-Moore Majority Voting Algorithm]]
+- [[Misra–Gries heavy hitters Algorithm]]
 - [[Floyd’s Cycle Detection Algorithm]]
