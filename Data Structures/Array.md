@@ -16,6 +16,6 @@ An array is a collection of items of same data type stored at contiguous memory 
 - Better locality caching as it's stored in contiguous memory location.
 - Better performance as fixed size array is stored in stack memory.
 # Disadvantages:
-- Wastes memory if the allocated space is not fully utilized.
+- Wastes memory if the allocated space is not fully utilised.
 - Can't store multiple data types in same array.
 - Can't be used for data whose size is not known ahead of time. (There's a penalty for growing an Array)
