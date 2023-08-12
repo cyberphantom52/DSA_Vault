@@ -13,10 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Data Structures/Linked List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "968e5f8652125b08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Data Structures/Array.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "5edcc595d6c1051e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 442.5
   },
   "right": {
     "id": "b11c2f5b29cab1be",
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/Array.md",
+                "file": "Data Structures/Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures/Array.md",
+                "file": "Data Structures/Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures/Array.md"
+                "file": "Data Structures/Linked List.md"
               }
             }
           }
@@ -149,19 +169,20 @@
   },
   "active": "250ef2d15de43a3f",
   "lastOpenFiles": [
+    "Data Structures/Array.md",
+    "Data Structures/Linked List.md",
     "Data Structures/Data Structures.md",
+    "Dynamic Programming.md",
+    "Algorithmic Complexity and Big O Notation.md",
     "Algorithms/Kadane's Algorithm.md",
     "Algorithms/Algorithm.md",
-    "Data Structures/Array.md",
     "Algorithms/Sorting/Merge Sort.md",
     "Algorithms/Sorting/Sorting.md",
     "Divide And Conquer.md",
-    "Algorithmic Complexity and Big O Notation.md",
     "Untitled.md",
     "Algorithms/Boyer-Moore Majority Voting Algorithm.md",
     "Algorithms/Floyd’s Cycle Detection Algorithm.md",
     "Algorithms/floydsll.svg",
-    "Dynamic Programming.md",
     "Algorithms/Misra–Gries heavy hitters Algorithm.md",
     "Algorithms/Searching/Binary Search.md",
     "Algorithms/Sorting/Dutch National Flag Algorithm.md",
@@ -169,7 +190,6 @@
     "Algorithms/Searching",
     "Algorithms/Sorting/merge_sort_diagram.png",
     "linked list.md",
-    "Data Structures/Linked List.md",
     "Data Structures",
     "Algorithms/Sorting",
     "Excalidraw/Drawing 2023-07-23 17.58.56.excalidraw.md",
@@ -184,7 +204,6 @@
     "README.md",
     "Arrays.md",
     "Data Structs",
-    "Linked List.md",
     "Untitled.canvas"
   ]
 }
