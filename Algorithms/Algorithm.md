@@ -1,4 +1,6 @@
+
 ## Basic Searching/Traversal Algorithms
+# [[Searching]] Algorithms
 
 All data structures are meant to hold information. Some structures need specials ways to access this information efficiently that are more involved than simply accessing an [[array]] index or [[Hash Map]] key. Data-structures that hold collections of data such as Trees and Graphs use a few basic algorithms to access the information within.
 
