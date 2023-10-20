@@ -29,3 +29,4 @@ There is a ton of research in this field, but for the purposes of a tech intervi
 - [[Boyer-Moore Majority Voting Algorithm]]
 - [[Misra–Gries heavy hitters Algorithm]]
 - [[Floyd’s Cycle Detection Algorithm]]
+* [[Floyd–Warshall Algorithm]]

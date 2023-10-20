@@ -2,7 +2,7 @@
 tags: algorithm, searching
 aliases: Half-Interval Search
 ---
-Binary search is an efficient searching algorithm used to find the position of a specific value within a sorted [[array]]. It works by repeatedly dividing the search space in half until the target value is found or the search space becomes empty. It's a [[Divide And Conquer]] algorithm.
+Binary search is an efficient searching algorithm used to find the position of a specific value within a sorted sequence. It works by repeatedly dividing the search space in half until the target value is found or the search space becomes empty. It's a [[Divide And Conquer]] algorithm.
 
 #### Time Complexity: $O(log(n))$
 

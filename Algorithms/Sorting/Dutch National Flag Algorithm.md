@@ -2,7 +2,7 @@
 tag: algorithm
 aliases: Dutch Flag Algorithm, Three-Way Partitioning
 ---
-The Dutch National Flag algorithm, also known as the Dutch Flag Partitioning or Three-Way Partitioning, is a sorting algorithm designed to efficiently sort an [[array]] containing three distinct elements or values. It's a type of unstable sorting algorithm i.e relative order of equal elements might not be preserved. It is often used as a subroutine in other sorting algorithms like [[Quick Sort]] and [[Merge Sort]] to handle duplicate keys or multiple values.
+The Dutch National Flag algorithm, also known as the Dutch Flag Partitioning or Three-Way Partitioning, is a sorting algorithm designed to efficiently sort a sequence containing three distinct elements or values. It's a type of unstable sorting algorithm i.e relative order of equal elements might not be preserved. It is often used as a subroutine in other sorting algorithms like [[Quick Sort]] and [[Merge Sort]] to handle duplicate keys or multiple values.
 
 #### Time Complexity: $O(N)$
 

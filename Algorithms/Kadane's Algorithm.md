@@ -1,7 +1,7 @@
 ---
 tag: algorithm
 ---
-Kadane's algorithm is a [[dynamic programming]] approach used to solve the maximum sub-array problem, which involves finding the contiguous sub-array with the maximum sum in an [[array]] of numbers. The algorithm was proposed by Jay Kadane in 1984 and has a time complexity of $O(n)$.
+Kadane's algorithm is a [[dynamic programming]] approach used to solve the maximum sub-array problem, which involves finding the contiguous sub-array with the maximum sum in a sqeuence of numbers. The algorithm was proposed by Jay Kadane in 1984 and has a time complexity of $O(n)$.
 
 ## Working of Kadane's Algorithm:
 The algorithm works by iterating over the array and keeping track of the maximum sum of the sub-array ending at each position. 
