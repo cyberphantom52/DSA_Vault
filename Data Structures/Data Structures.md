@@ -1,6 +1,6 @@
 Data structures are fundamental concepts in computer science that allow us to organize and store data efficiently. They provide a way to manage and manipulate data in a way that facilitates various operations, such as insertion, deletion, searching, and sorting. Choosing the right data structure is crucial as it directly impacts the performance and efficiency of algorithms that operate on the data.
 
-# Some common data structures:
+# Some common data structures
 
 - [[Array]]: A a collection of elements of the same data type. Arrays offer $O(1)$ access to elements.
 

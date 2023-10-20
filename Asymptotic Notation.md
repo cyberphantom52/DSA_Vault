@@ -17,10 +17,10 @@ Asymptotic Notation is _used to describe the running time of an algorithm_. When
  ![[big-theta.png]]
  * i.e if $f(n) = O(g(n))$ and $f(n) = \ohm(g(n))$ then $f(n)$ is $\theta(g(n))$ 
  * When we use big-$\theta$ notation, we're saying that we have an **asymptotically tight bound** on the running time.
-	 * "Asymptotically" because it matters for only large values of $n$. 
-	 * "Tight bound" because we've nailed the running time to within a constant factor above and below.   
+	 * "**Asymptotically**" because it matters for only large values of $n$. 
+	 * "**Tight bound**" because we've nailed the running time to within a constant factor above and below.   
 # Time Complexity
-
+## Data Structures
 | Data Structure | Access | Search | Insertion | Deletion | 
 |-|-|-|-|-|
 | [[Array]] | $O(1)$ | $O(n)$ | $O(n)$ | $O(n)$ |
@@ -30,8 +30,8 @@ Asymptotic Notation is _used to describe the running time of an algorithm_. When
 | [[Doubly-Linked List]] | $O(n)$ | $O(n)$ | $O(1)$ | $O(1)$ |
 | [[Hash Map\|Hash Table]] | N/A | $O(1)$ | Best: $O(1)$ <br> Worst: $O(n)$ | Best: $O(1)$ <br> Worst: $O(n)$ |
 | [[Binary Search Tree]] | Best: $O(log \cdot n)$ <br> Worst: $O(n)$ | Best: $O(log \cdot n)$ <br> Worst: $O(n)$ | Best: $O(log \cdot n)$ <br> Worst: $O(n)$ |  Best: $O(log \cdot n)$ <br> Worst: $O(n)$ |
-
-| Algorithm | Best | Average | Worst | Space | 
+## Algorithms
+| Algorithm | Best | Average | Worst | Auxilary Space | 
 |-|-|-|-|-|
 | [[Quick Sort]] | $O(n \cdot log \cdot n)$ | $O(n \cdot log \cdot n)$ | $O(n^2)$ | $O(log \cdot n)$ |
 | [[Merge Sort]] | $O(n \cdot log \cdot n)$ | $O(n \cdot log \cdot n)$ | $O(n \cdot log \cdot n)$ | $O(n)$ |
