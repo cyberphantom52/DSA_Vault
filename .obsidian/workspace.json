@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Sorting/Merge Sort.md",
+                "file": "Algorithms/Searching/Binary Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b11c2f5b29cab1be",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Sorting/Merge Sort.md",
+                "file": "Algorithms/Searching/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Sorting/Merge Sort.md",
+                "file": "Algorithms/Searching/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Sorting/Merge Sort.md"
+                "file": "Algorithms/Searching/Binary Search.md"
               }
             }
           }
@@ -147,21 +148,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6bb893ccc7a68f38",
+  "active": "f8a14f7198d8d997",
   "lastOpenFiles": [
-    "Algorithms/Sorting/Quick Sort.md",
-    "Algorithms/Sorting/Merge Sort.md",
+    "Asymptotic Notation.md",
     "Algorithms/Sorting/Sorting.md",
+    "Algorithms/Algorithm.md",
+    "Algorithms/Sorting/Merge Sort.md",
+    "Algorithms/Sorting/Quick Sort.md",
     "Algorithms/Sorting/Selection Sort.md",
     "Algorithms/Sorting/Bubble Sort.md",
     "Algorithms/Searching/Binary Search.md",
     "Untitled.canvas",
-    "Asymptotic Notation.md",
     "Untitled Diagram.svg",
     "Algorithms/Floyd’s Cycle Detection Algorithm.md",
     "Algorithms/floydsll.svg",
     "Algorithms/Boyer-Moore Majority Voting Algorithm.md",
-    "Algorithms/Algorithm.md",
     "Algorithms/Sorting/Dutch National Flag Algorithm.md",
     "Data Structures/Stack.md",
     "Algorithms/Kadane's Algorithm.md",
