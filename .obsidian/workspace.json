@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Searching/Binary Search.md",
+                "file": "Algorithms/Sliding Window.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Searching/Binary Search.md",
+                "file": "Algorithms/Sliding Window.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Searching/Binary Search.md",
+                "file": "Algorithms/Sliding Window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Searching/Binary Search.md"
+                "file": "Algorithms/Sliding Window.md"
               }
             }
           }
@@ -148,8 +148,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8a14f7198d8d997",
+  "active": "6bb893ccc7a68f38",
   "lastOpenFiles": [
+    "Data Structures/Data Structures.md",
+    "Data Structures/Array.md",
+    "Data Structures/Stack.md",
+    "Data Structures/Linked List.md",
+    "Algorithms/Sliding Window.md",
+    "Algorithms/Searching/Binary Search.md",
     "Asymptotic Notation.md",
     "Algorithms/Sorting/Sorting.md",
     "Algorithms/Algorithm.md",
@@ -157,18 +163,13 @@
     "Algorithms/Sorting/Quick Sort.md",
     "Algorithms/Sorting/Selection Sort.md",
     "Algorithms/Sorting/Bubble Sort.md",
-    "Algorithms/Searching/Binary Search.md",
     "Untitled.canvas",
     "Untitled Diagram.svg",
     "Algorithms/Floyd’s Cycle Detection Algorithm.md",
     "Algorithms/floydsll.svg",
     "Algorithms/Boyer-Moore Majority Voting Algorithm.md",
     "Algorithms/Sorting/Dutch National Flag Algorithm.md",
-    "Data Structures/Stack.md",
     "Algorithms/Kadane's Algorithm.md",
-    "Data Structures/Array.md",
-    "Data Structures/Linked List.md",
-    "Data Structures/Data Structures.md",
     "Dynamic Programming.md",
     "big-omega.png",
     "big-O.png",
@@ -186,7 +187,6 @@
     "Searching.md",
     "Algorithms/Searching",
     "Algorithms/Sorting/merge_sort_diagram.png",
-    "linked list.md",
     "Data Structures",
     "Algorithms/Sorting",
     "Excalidraw",
