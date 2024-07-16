@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Sliding Window.md",
+                "file": "Algorithms/Searching/Binary Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b11c2f5b29cab1be",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Sliding Window.md",
+                "file": "Algorithms/Searching/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Sliding Window.md",
+                "file": "Algorithms/Searching/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Sliding Window.md"
+                "file": "Algorithms/Searching/Binary Search.md"
               }
             }
           }
@@ -150,11 +149,11 @@
   },
   "active": "6bb893ccc7a68f38",
   "lastOpenFiles": [
+    "Algorithms/Sliding Window.md",
     "Data Structures/Data Structures.md",
     "Data Structures/Array.md",
     "Data Structures/Stack.md",
     "Data Structures/Linked List.md",
-    "Algorithms/Sliding Window.md",
     "Algorithms/Searching/Binary Search.md",
     "Asymptotic Notation.md",
     "Algorithms/Sorting/Sorting.md",
