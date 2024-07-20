@@ -17,3 +17,6 @@ Data structures are fundamental concepts in computer science that allow us to or
 - [[Hash Map|Hash Table]]: A hash table is a data structure that stores key-value pairs and provides fast access and insertion using a hash function to map keys to specific locations (buckets) in the table.
 
 - [[Heap]]: Heap is a specialized tree-based data structure that satisfies the Heap property. A Heap is often used to implement priority queues, which are data structures that allow efficient retrieval of the minimum or maximum element.
+# Additional Data Structures
+
+- [[Fenwick Tree]]: A data structure that supports sum range queries as well as setting values in a static array and getting the value of the prefix sum upto some index efficiently.
