@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb8d0486456c6780",
+        "id": "f5af6ba79976cb2a",
         "type": "tabs",
         "children": [
           {
-            "id": "6bb893ccc7a68f38",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5db72d5087ac3871",
+            "id": "5e000f1b1955d055",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Time",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Structures/Fenwick Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Structures/Fenwick Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Structures/Fenwick Tree.md"
+              }
             }
           }
         ],
@@ -151,22 +147,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6bb893ccc7a68f38",
+  "active": "5e000f1b1955d055",
   "lastOpenFiles": [
     "Data Structures/Fenwick Tree.md",
-    "Data Structures/Data Structures.md",
-    "Data Structures/Array.md",
-    "Screenshot from 2024-07-16 15-09-41.png",
-    "Screenshot from 2024-07-16 15-04-34.png",
-    "Screenshot from 2024-07-16 15-51-13.png",
     "Data Structures/Linked List.md",
-    "Data Structures/Fenwick Trees.md",
+    "Data Structures/Screenshot from 2024-07-16 15-04-34.png",
+    "Data Structures/Screenshot from 2024-07-16 15-51-13.png",
+    "Data Structures/Screenshot from 2024-07-16 15-09-41.png",
+    "Greedy.md",
+    "Dynamic Programming.md",
+    "Algorithms/Algorithm.md",
     "Algorithms/Searching/Binary Search.md",
     "Algorithms/Sliding Window.md",
+    "Data Structures/Data Structures.md",
+    "Data Structures/Array.md",
     "Data Structures/Stack.md",
     "Asymptotic Notation.md",
     "Algorithms/Sorting/Sorting.md",
-    "Algorithms/Algorithm.md",
     "Algorithms/Sorting/Merge Sort.md",
     "Algorithms/Sorting/Quick Sort.md",
     "Algorithms/Sorting/Selection Sort.md",
@@ -178,7 +175,6 @@
     "Algorithms/Boyer-Moore Majority Voting Algorithm.md",
     "Algorithms/Sorting/Dutch National Flag Algorithm.md",
     "Algorithms/Kadane's Algorithm.md",
-    "Dynamic Programming.md",
     "big-omega.png",
     "big-O.png",
     "big-theta.png",
