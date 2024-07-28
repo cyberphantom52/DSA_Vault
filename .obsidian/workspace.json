@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f5af6ba79976cb2a",
+        "id": "65081fc433bc6824",
         "type": "tabs",
         "children": [
           {
-            "id": "5e000f1b1955d055",
+            "id": "974d503c21d80713",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/Fenwick Tree.md",
+                "file": "Dynamic Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/Fenwick Tree.md",
+                "file": "Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures/Fenwick Tree.md",
+                "file": "Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures/Fenwick Tree.md"
+                "file": "Dynamic Programming.md"
               }
             }
           }
@@ -147,20 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e000f1b1955d055",
+  "active": "974d503c21d80713",
   "lastOpenFiles": [
+    "Greedy.md",
+    "Dynamic Programming.md",
+    "README.md",
+    "Algorithms/Algorithm.md",
+    "Data Structures/Array.md",
+    "Data Structures/Data Structures.md",
     "Data Structures/Fenwick Tree.md",
     "Data Structures/Linked List.md",
     "Data Structures/Screenshot from 2024-07-16 15-04-34.png",
     "Data Structures/Screenshot from 2024-07-16 15-51-13.png",
     "Data Structures/Screenshot from 2024-07-16 15-09-41.png",
-    "Greedy.md",
-    "Dynamic Programming.md",
-    "Algorithms/Algorithm.md",
     "Algorithms/Searching/Binary Search.md",
     "Algorithms/Sliding Window.md",
-    "Data Structures/Data Structures.md",
-    "Data Structures/Array.md",
     "Data Structures/Stack.md",
     "Asymptotic Notation.md",
     "Algorithms/Sorting/Sorting.md",
@@ -184,7 +185,6 @@
     "Algorithms/Searching/Linear Search.md",
     "Algorithms/Searching/Searching.md",
     "Algorithms/Misra–Gries heavy hitters Algorithm.md",
-    "README.md",
     "Algorithms/Searching",
     "Data Structures",
     "Algorithms/Sorting",
