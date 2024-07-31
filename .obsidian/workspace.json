@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "65081fc433bc6824",
+        "id": "eb8d0486456c6780",
         "type": "tabs",
         "children": [
           {
-            "id": "974d503c21d80713",
+            "id": "5db72d5087ac3871",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "Data Structures/Heap.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Time",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "Data Structures/Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "Data Structures/Heap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Programming.md"
+                "file": "Data Structures/Heap.md"
               }
             }
           }
@@ -147,24 +147,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "974d503c21d80713",
+  "active": "5db72d5087ac3871",
   "lastOpenFiles": [
-    "Greedy.md",
-    "Dynamic Programming.md",
-    "README.md",
-    "Algorithms/Algorithm.md",
-    "Data Structures/Array.md",
-    "Data Structures/Data Structures.md",
+    "Data Structures/Binary tree.md",
+    "Data Structures/Heap.md",
+    "Algorithms/Dynamic Programming.md",
+    "Algorithms/Greedy.md",
+    "Algorithms/Prims Algorithm.md",
+    "Algorithms/Dijkstra's Algorithm.md",
     "Data Structures/Fenwick Tree.md",
     "Data Structures/Linked List.md",
-    "Data Structures/Screenshot from 2024-07-16 15-04-34.png",
+    "Vector.md",
+    "Data Structures/Array.md",
+    "Data Structures/Data Structures.md",
     "Data Structures/Screenshot from 2024-07-16 15-51-13.png",
     "Data Structures/Screenshot from 2024-07-16 15-09-41.png",
+    "Data Structures/Screenshot from 2024-07-16 15-04-34.png",
+    "Screenshot from 2024-07-16 15-09-41.png",
+    "Screenshot from 2024-07-16 15-04-34.png",
+    "Screenshot from 2024-07-16 15-51-13.png",
+    "Data Structures/Fenwick Trees.md",
     "Algorithms/Searching/Binary Search.md",
     "Algorithms/Sliding Window.md",
     "Data Structures/Stack.md",
     "Asymptotic Notation.md",
     "Algorithms/Sorting/Sorting.md",
+    "Algorithms/Algorithm.md",
     "Algorithms/Sorting/Merge Sort.md",
     "Algorithms/Sorting/Quick Sort.md",
     "Algorithms/Sorting/Selection Sort.md",
@@ -178,13 +186,6 @@
     "Algorithms/Kadane's Algorithm.md",
     "big-omega.png",
     "big-O.png",
-    "big-theta.png",
-    "Untitled Diagram.png",
-    "Untitled Diagram.sv.md",
-    "common_complexities.png",
-    "Algorithms/Searching/Linear Search.md",
-    "Algorithms/Searching/Searching.md",
-    "Algorithms/Misra–Gries heavy hitters Algorithm.md",
     "Algorithms/Searching",
     "Data Structures",
     "Algorithms/Sorting",
