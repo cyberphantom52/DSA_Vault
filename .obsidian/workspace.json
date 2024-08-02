@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb8d0486456c6780",
+        "id": "548613908991ed01",
         "type": "tabs",
         "children": [
           {
-            "id": "5db72d5087ac3871",
+            "id": "80671c0874a8d6b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/Heap.md",
+                "file": "Algorithms/Sliding Window.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Time",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/Heap.md",
+                "file": "Algorithms/Sliding Window.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures/Heap.md",
+                "file": "Algorithms/Sliding Window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures/Heap.md"
+                "file": "Algorithms/Sliding Window.md"
               }
             }
           }
@@ -147,45 +147,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5db72d5087ac3871",
+  "active": "80671c0874a8d6b6",
   "lastOpenFiles": [
-    "Data Structures/Binary tree.md",
-    "Data Structures/Heap.md",
-    "Algorithms/Dynamic Programming.md",
-    "Algorithms/Greedy.md",
-    "Algorithms/Prims Algorithm.md",
-    "Algorithms/Dijkstra's Algorithm.md",
-    "Data Structures/Fenwick Tree.md",
     "Data Structures/Linked List.md",
+    "Data Structures/Heap.md",
+    "Algorithms/Algorithm.md",
+    "Algorithms/Boyer-Moore Majority Voting Algorithm.md",
+    "Algorithms/Dijkstra's Algorithm.md",
+    "Algorithms/Dynamic Programming.md",
+    "Algorithms/Floyd’s Cycle Detection Algorithm.md",
+    "Algorithms/floydsll.svg",
+    "Algorithms/Greedy.md",
+    "Algorithms/Kadane's Algorithm.md",
+    "Algorithms/Misra–Gries heavy hitters Algorithm.md",
+    "Algorithms/Prims Algorithm.md",
+    "Algorithms/Sliding Window.md",
+    "Dynamic Programming.md",
     "Vector.md",
+    "Data Structures/Binary tree.md",
+    "Data Structures/Fenwick Tree.md",
+    "Greedy.md",
+    "README.md",
     "Data Structures/Array.md",
     "Data Structures/Data Structures.md",
+    "Data Structures/Screenshot from 2024-07-16 15-04-34.png",
     "Data Structures/Screenshot from 2024-07-16 15-51-13.png",
     "Data Structures/Screenshot from 2024-07-16 15-09-41.png",
-    "Data Structures/Screenshot from 2024-07-16 15-04-34.png",
-    "Screenshot from 2024-07-16 15-09-41.png",
-    "Screenshot from 2024-07-16 15-04-34.png",
-    "Screenshot from 2024-07-16 15-51-13.png",
-    "Data Structures/Fenwick Trees.md",
     "Algorithms/Searching/Binary Search.md",
-    "Algorithms/Sliding Window.md",
     "Data Structures/Stack.md",
     "Asymptotic Notation.md",
     "Algorithms/Sorting/Sorting.md",
-    "Algorithms/Algorithm.md",
     "Algorithms/Sorting/Merge Sort.md",
     "Algorithms/Sorting/Quick Sort.md",
-    "Algorithms/Sorting/Selection Sort.md",
-    "Algorithms/Sorting/Bubble Sort.md",
     "Untitled.canvas",
     "Untitled Diagram.svg",
-    "Algorithms/Floyd’s Cycle Detection Algorithm.md",
-    "Algorithms/floydsll.svg",
-    "Algorithms/Boyer-Moore Majority Voting Algorithm.md",
-    "Algorithms/Sorting/Dutch National Flag Algorithm.md",
-    "Algorithms/Kadane's Algorithm.md",
     "big-omega.png",
     "big-O.png",
+    "big-theta.png",
+    "Untitled Diagram.png",
+    "common_complexities.png",
     "Algorithms/Searching",
     "Data Structures",
     "Algorithms/Sorting",

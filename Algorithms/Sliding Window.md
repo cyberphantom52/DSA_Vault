@@ -7,6 +7,7 @@ The sliding window technique is a method used to solve various algorithmic probl
 - Detecting patterns or anomalies in data streams.
 
 #### Tips:
+- In case of fixed size sliding window, determine the window size by looking at what property of the problem leads to a solution. e.g in [Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/description/) we count the total number of 1's in the array and use it as sliding window size.
 - Sometimes reduces the complexity from $O(n^2)$ to $O(n)$.
 - Can be used to find number of sub-arrays with sum at most equal to some $K$.
 - Is commonly combined with [[Two-Pointer]] technique.
