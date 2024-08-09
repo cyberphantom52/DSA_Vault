@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Sliding Window.md",
+                "file": "Algorithms/Recursion and Backtracking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8e05d0c1edc036b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Dynamic Programming.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 339.5004348754883
   },
   "right": {
     "id": "b11c2f5b29cab1be",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Sliding Window.md",
+                "file": "Algorithms/Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Sliding Window.md",
+                "file": "Algorithms/Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Sliding Window.md"
+                "file": "Algorithms/Dynamic Programming.md"
               }
             }
           }
@@ -147,21 +160,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80671c0874a8d6b6",
+  "active": "d8e05d0c1edc036b",
   "lastOpenFiles": [
+    "Algorithms/Recursion and Backtracking.md",
+    "Algorithms/Dynamic Programming.md",
+    "Algorithms/Sliding Window.md",
     "Data Structures/Linked List.md",
     "Data Structures/Heap.md",
     "Algorithms/Algorithm.md",
     "Algorithms/Boyer-Moore Majority Voting Algorithm.md",
     "Algorithms/Dijkstra's Algorithm.md",
-    "Algorithms/Dynamic Programming.md",
     "Algorithms/Floyd’s Cycle Detection Algorithm.md",
     "Algorithms/floydsll.svg",
     "Algorithms/Greedy.md",
     "Algorithms/Kadane's Algorithm.md",
     "Algorithms/Misra–Gries heavy hitters Algorithm.md",
     "Algorithms/Prims Algorithm.md",
-    "Algorithms/Sliding Window.md",
     "Dynamic Programming.md",
     "Vector.md",
     "Data Structures/Binary tree.md",
@@ -178,7 +192,6 @@
     "Asymptotic Notation.md",
     "Algorithms/Sorting/Sorting.md",
     "Algorithms/Sorting/Merge Sort.md",
-    "Algorithms/Sorting/Quick Sort.md",
     "Untitled.canvas",
     "Untitled Diagram.svg",
     "big-omega.png",
