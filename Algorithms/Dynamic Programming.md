@@ -22,5 +22,20 @@ Generating all sub-sequences itself can't be optimized by DP as there are no ove
 Generally for DP on sub-sequences our DP structure is 2 dimensional. One of these dimensions comes from subset/sub-sequence generation (i.e the index up-to which the input is considered for a sub-problem) and the other comes from the additional constrain that the problem provides. e.g In case of the problem mentioned above we define our DP as
 $$dp = vec![vec![false; 1 + sum];\ nums.len()]$$then **`dp[i][j]`** represents "Is there a subset up-to index $i$ whose sum is equal to $j$ ."
 
+**`dp[i][j]`** is calculated in a similar way to subset generation by taking and not_taking an element i.e
+```rust
+// not taking current element means just repeating the result of last index for same target j
+let not_take = dp[i - 1][j];
+
+let mut take = false;
+if nums[i] as usize <= j {
+	// taking means repeating the result of last index but j changes by the amount of current element
+	take = dp[i - 1][j - nums[i] as usize];
+}
+
+dp[i][j] = take || not_take;
+```
+
+
 This pattern can be extended to solve most DP on Sub-sequence problems.
 
